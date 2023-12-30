@@ -1,6 +1,5 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi there 👋, I'm Vansh Patel</h1>
 <h3 align="center">An Aspiring Computer Science Student with a Passion for Software Development 🚀"</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47flztzgnozir5h3kqise7u1032fwb48y51rfpq0y1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
