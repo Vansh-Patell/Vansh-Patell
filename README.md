@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 <h3 align="center">An Aspiring Computer Science Student with a Passion for Software Development 🚀"</h3>
 
