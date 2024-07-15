@@ -1,21 +1,18 @@
 ![Header](./header-image.png)
 
-<h3 align="center">An Aspiring Computer Science Student with a Passion for Software Development 🚀"</h3>
-
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47flztzgnozir5h3kqise7u1032fwb48y51rfpq0y1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-patell&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-patell" /> </p>
 
-- 🔭 I’m currently taking courses on **Software Engineering, Operating Systems, Computer Organization, Analysis of Algorithms and Data Structures**
+- 🔭 I’m currently taking courses on **Distributed Computing, Software Engineering & Testing, Computer Security, Database Implementation, Data Mining, and Project Management**
 
-- 👨‍💻 All of my projects are available at [https://vtechub.netlify.app/](https://vtechub.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://vtechub.netlify.app/](https://vtechub.netlify.app/)
 
 - 📫 Feel free to email me at **vanshp.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vansh-patel-789b22234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-patel-789b22234" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh_patel._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_patel._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vansh_1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vansh_1604" height="30" width="40" /></a>
 </p>
 
