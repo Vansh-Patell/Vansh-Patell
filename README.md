@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47flztzgnozir5h3kqise7u1032fwb48y51rfpq0y1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-- 🔭 I’m currently taking courses on **Distributed Computing, Software Engineering & Testing, Computer Security, Database Implementation, Data Mining, and Project Management**
+- 🔭 I’m currently taking courses on **Distributed Computing, Software Engineering & Testing, Computer Security, Database Implementation, and Professional Practices**
 
 - 👨‍💻 My portfolio is available at [https://vtechub.netlify.app/](https://vtechub.netlify.app/)
 
