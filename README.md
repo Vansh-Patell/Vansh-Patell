@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently taking courses on **Distributed Computing, Software Testing & Quality, Computer Security, Advanced Databases, and Professional Practices**
 
-- 👨‍💻 My portfolio is available at [https://vtechub.netlify.app/](https://vtechub.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://vansh-patell.vercel.app/](https://vansh-patell.vercel.app)
 
 - 📫 Feel free to email me at **vanshp.work@gmail.com**
 
